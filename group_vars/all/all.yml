@@ -3,8 +3,8 @@
 #project_id: fair-solution-173518
 
 service_account_email: ansible@udemy-ansible-assignment.iam.gserviceaccount.com
-credentials_file: udemy-ansible-assignment-fb21ec2e17c4.json
-project_id: udemy-ansible-assignment
+credentials_file: ansible@pelagic-magpie-360915.iam.gserviceaccount.com
+project_id: pelagic-magpie-360915
 
 machine_type: n1-standard-1
 image: debian-7
