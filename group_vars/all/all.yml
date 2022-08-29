@@ -6,8 +6,8 @@ service_account_email: ansible@udemy-ansible-assignment.iam.gserviceaccount.com
 credentials_file: ansible@pelagic-magpie-360915.iam.gserviceaccount.com
 project_id: pelagic-magpie-360915
 
-machine_type: n1-standard-1
-image: debian-7
+machine_type: e2-standard-2(2vCPU,8 GB memory
+image: Debian GNU/Linux 11 (bullseye)
 instance_list:
   - web-server-1,web-server-2
   - db-server
